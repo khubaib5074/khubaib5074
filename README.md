@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python programming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @ khubaib.malik02@gmail.com
+- 📫 You may reach me @ khubaib.malik02@gmail.com
