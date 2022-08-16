@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khubaib5074
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Development and Python
+- 🌱 I’m currently learning Web Development and Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 You may reach me @ khubaib.malik02@gmail.com
